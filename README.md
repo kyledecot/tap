@@ -3,5 +3,5 @@
 ## Installation
 
 ```sh
-$ brew tap kyledecot/homebrew-tap git@github.com:kyledecot/homebrew-tap.git
+$ brew tap root/tap git@github.com:kyledecot/homebrew-tap.git
 ```
