@@ -2,6 +2,8 @@ class AppStoreConnectJwt < Formula
   version "0.9.0"
   url "https://github.com/kyledecot/app_store_connect_jwt/archive/v0.9.0.tar.gz"
   sha256 "cea1b08326b55ea53cab800c46cfd055563db9c3c265c819ce5d69e10c8b214a"
+  head "https://github.com/kyledecot/app_store_connect_jwt.git"
+
   depends_on "ruby@2.6"
 
   def install
