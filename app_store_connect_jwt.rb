@@ -1,6 +1,6 @@
 class AppStoreConnectJwt < Formula
   version "0.9.0"
-  url "git@github.com:kyledecot/app_store_connect_jwt.git", :using => :git
+  url "https://github.com/kyledecot/app_store_connect_jwt/archive/v0.9.0.tar.gz"
   depends_on "ruby@2.6"
 
   def install
